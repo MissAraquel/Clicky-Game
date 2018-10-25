@@ -1,0 +1,16 @@
+.jumbotron {
+  width: 100%;
+  font-size: 2rem;
+  color: #f8f8f8;
+  background-color: #2e3351;
+  height: auto;
+  text-align: center;
+  position: sticky;
+
+}
+  
+@media only screen and (max-width: 750px) {
+  #cur-sco, #top-sco {
+    font-size: 2rem;
+  }
+}

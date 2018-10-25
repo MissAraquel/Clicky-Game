@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Chromatopelma Cyaneopubescens",
+    "image": "http://www.ffnotes.com/files/7/e/777f43e76196de9cf705dba7541a7b4b.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Acanthoscurria Geniculata",
+    "image": "https://www.reptilia.org.uk/ekmps/shops/thepetshop/images/giant-white-knee-acanthoscurria-geniculata--11346-p.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Grammastola Pulchripes",
+    "image": "http://3.bp.blogspot.com/_wAIdHFOByLk/TENPjuovCUI/AAAAAAAAAEg/Tq35C1283Tk/s1600/gaureostriata3.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Brachypelma Albopilosum",
+    "image": "https://i.ytimg.com/vi/sExar-jGVH4/hqdefault.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Caribena Versicolor",
+    "image": "https://www.spidersonline.pl/197-large_default/caribena-versicolor-l12-1cm.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Harpactira Pulchripes",
+    "image": "https://www.mymonsters.co.za/wp-content/uploads/2018/08/HARPULMF-1.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Monocentropus Balfouri",
+    "image": "http://arachnoboards.com/gallery/monocentropus-balfouri.4642/full",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Grammastola Pulchra",
+    "image": "http://www.tarantulapets.com/wp-content/uploads/2014/12/Grammostola-pulchra-Mello-Leitao-1921-female-Uruguay.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Poecilotheria Metallica",
+    "image": "https://www.mymonsters.co.za/wp-content/uploads/2018/06/POEMETMF.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Brachypelma Boehmei",
+    "image": "https://i.pinimg.com/originals/b4/23/85/b4238511d18a3f7325ccb048d68f8ccf.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Haplopelma Lividum",
+    "image": "https://someinterestingfacts.net/wp-content/uploads/2013/01/Cobalt-Blue-Tarantula-Care.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Typhochlaena Seladonia",
+    "image": "https://www.globaltarantulamarket.com/322-tm_thickbox_default/5x-typhochlaena-seladonia-l1.jpg",
+    "clicked": false
+  }
+]
